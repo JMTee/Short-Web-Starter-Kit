@@ -1,1 +1,1 @@
-# Short-Web-Starter-Kit
+# Creating good design Talk demo files
